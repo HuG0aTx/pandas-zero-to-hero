@@ -1,0 +1,51 @@
+id,produit,categorie,prix_unitaire,quantite,date_vente
+1,Stylo bleu,Papeterie,1.20,10,2025-01-05
+2,Classeur A4,Papeterie,3.50,5,2025-01-06
+3,Souris USB,Informatique,15.00,2,2025-01-07
+4,Clé USB 16Go,Informatique,8.00,4,2025-01-08
+5,Cahier 96p,Papeterie,2.50,8,2025-01-09
+6,Tapis de souris,Informatique,6.00,3,2025-01-10
+7,Marqueur rouge,Papeterie,1.80,12,2025-01-12
+8,Agenda 2025,Papeterie,5.50,6,2025-01-15
+9,Clavier mécanique,Informatique,45.00,1,2025-01-18
+10,Tablette graphique,Informatique,120.00,1,2025-01-20
+11,Bloc-notes A5,Papeterie,1.00,20,2025-02-01
+12,Enveloppe DL,Papeterie,0.50,50,2025-02-02
+13,Adaptateur HDMI,Informatique,9.00,2,2025-02-05
+14,Disque dur 1To,Informatique,55.00,1,2025-02-06
+15,Perforatrice,Papeterie,4.00,3,2025-02-08
+16,Ruban adhésif,Papeterie,1.50,10,2025-02-10
+17,Webcam HD,Informatique,35.00,1,2025-02-12
+18,Étui pour tablette,Informatique,15.00,2,2025-02-14
+19,Stylos multicolores,Papeterie,3.00,8,2025-02-16
+20,Papier imprimante,Papeterie,6.50,5,2025-02-18
+21,Écran 24 pouces,Informatique,150.00,1,2025-03-01
+22,Souris sans fil,Informatique,18.00,2,2025-03-02
+23,Marqueur noir,Papeterie,1.80,15,2025-03-04
+24,Clé USB 32Go,Informatique,10.00,4,2025-03-05
+25,Classeur 2 anneaux,Papeterie,3.00,6,2025-03-06
+26,Lampe de bureau,Informatique,25.00,1,2025-03-08
+27,Bloc-notes A4,Papeterie,2.00,10,2025-03-10
+28,Cahier spirale,Papeterie,2.20,7,2025-03-12
+29,Support pour écran,Informatique,30.00,1,2025-03-14
+30,Imprimante jet d'encre,Informatique,90.00,1,2025-03-15
+31,Stylos plume,Papeterie,5.00,4,2025-03-16
+32,Surligneur jaune,Papeterie,1.50,8,2025-03-18
+33,Hub USB 4 ports,Informatique,12.00,2,2025-03-20
+34,Disque SSD 512Go,Informatique,75.00,1,2025-03-22
+35,Enveloppe kraft,Papeterie,0.60,40,2025-04-01
+36,Tableau blanc,Papeterie,25.00,1,2025-04-02
+37,Clé USB 64Go,Informatique,15.00,3,2025-04-04
+38,Chargeur USB-C,Informatique,20.00,2,2025-04-05
+39,Marqueur vert,Papeterie,1.80,10,2025-04-06
+40,Organiseur bureau,Papeterie,12.00,2,2025-04-08
+41,Casque audio,Informatique,40.00,1,2025-04-10
+42,Scanner portable,Informatique,85.00,1,2025-04-12
+43,Porte-documents,Papeterie,7.00,3,2025-04-14
+44,Ruban correcteur,Papeterie,1.50,5,2025-04-16
+45,Station d'accueil,Informatique,65.00,1,2025-04-18
+46,Routeur Wi-Fi,Informatique,55.00,1,2025-04-20
+47,Classeur A3,Papeterie,4.00,2,2025-04-22
+48,Support téléphone,Informatique,10.00,3,2025-04-24
+49,Bloc-notes coloré,Papeterie,2.50,6,2025-04-26
+50,Imprimante laser,Informatique,200.00,1,2025-04-28
